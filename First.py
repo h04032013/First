@@ -40,7 +40,7 @@ trainer = Trainer(
 )
 
 
-#train
+#training
 trainer.train()
 
 #5-generate responses from each mdodel and compare
@@ -58,6 +58,10 @@ base_response = generate_response(base_model, base_tokenizer, prompt)
 
  # from finetuned model
 finetuned_response = generate_response(model, tokenizer, prompt)
+
+#compare both
+print("Base Model Response:", base_response)
+print("Fine-Tuned Model Response:", finetuned_response)
 
 
 
