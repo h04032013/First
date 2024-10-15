@@ -1,0 +1,40 @@
+ALGEBRA/7TH GRADE
+1. im in 7th grade explain a function to me
+2. If A=2+i, O=-4, P=-i, and S=2+4i, find A-O+P+S
+3. The perimeter of a rectangle is 24 inches. What is the number of square inches in the maximum possible area for this rectangle?
+4.Find the distance between the points $(-5,-2)$ and $(7,3)
+5. (prealg 0) Megan has lost Fatima's phone number. Megan knows that the first 
+three digits are either 296 or 299. The remaining four digits 
+are 0, 1, 6 and 7, but she isn't sure of the order of these digits. 
+If Megan randomly dials a seven-digit number that meets these 
+conditions, what is the probability that she dials 
+Fatima's correct number? Express your answer as a common fraction.
+
+GEOMETRY
+1. Square ABCD has its center at $(8,-8)$ and has an area of 4 
+square units. The top side of the square is horizontal. The square is 
+then dilated with the dilation center at (0,0) and a scale factor of 2. 
+What are the coordinates of the vertex of the image of square ABCD 
+that is farthest from the origin? Give your answer as an ordered pair
+
+2. At the MP Donut Hole Factory, Niraek, Theo, and Akshaj are coating spherical 
+donut holes in powdered sugar.  Niraek's donut holes have radius 6 mm, Theo's 
+donut holes have radius 8 mm, and Akshaj's donut holes have radius 10 mm.  All 
+three workers coat the surface of the donut holes at the same rate and start at 
+the same time.  Assuming that the powdered sugar coating has negligible thickness 
+and is distributed equally on all donut holes, how many donut holes will Niraek 
+have covered by the first time all three workers finish their current donut hole 
+at the same time?
+
+PRECALCULUS
+Trigonometry:
+"I'm having trouble understanding how to convert between radians and degrees. If I have an angle of 5π665π​ radians, how do I convert that to degrees?"
+
+Exponential and Logarithmic Functions:
+"Can you explain how to solve this equation using logarithms? I’m stuck on 5x=2005x=200. What steps do I take?"
+
+Polynomials and Rational Functions:
+"I need help finding the vertical and horizontal asymptotes for the function f(x)=2x2+3x−1/x2−4​. How do I figure them out?"
+
+Sequences and Series:
+"Could you explain how to find the sum of a geometric series? For example, how do I find the sum of the series 3+6+12+24+…3+6+12+24+… if it goes on forever?

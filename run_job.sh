@@ -19,4 +19,4 @@ module load python/3.10.9-fasrc01
 # Activate conda environment (optional)
 
 # Run the job
-python generates.py
+python generate.py
