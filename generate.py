@@ -9,7 +9,7 @@ tokenizer = AutoTokenizer.from_pretrained("microsoft/Phi-3.5-mini-instruct")
 model = AutoModelForCausalLM.from_pretrained("microsoft/Phi-3.5-mini-instruct", pad_token_id=tokenizer.eos_token_id).to(device)
 
 # encode context the generation is conditioned on
-model_inputs = tokenizer('I am allergic to meat.', return_tensors='pt').to(torch_device)
+model_inputs = tokenizer('explain a function to me, im in 7th grade', return_tensors='pt').to(torch_device)
 
 # generate 40 new tokens
 greedy_output = model.generate(**model_inputs, max_new_tokens=40)
