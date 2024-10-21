@@ -45,8 +45,8 @@ trainer.train()
 
 #5-generate responses from each mdodel and compare
 
-base_model = AutoModelForCausalLM.from_pretrained(model_name)
-base_tokenizer = AutoTokenizer.from_pretrained(model_name)
+base_model = AutoModelForCausalLM.from_pretrained("microsoft/Phi-3.5-mini-instruct", trust_remote_code=True)
+base_tokenizer = AutoTokenizer.from_pretrained("microsoft/Phi-3.5-mini-instruct", trust_remote_code=True)
 
 def generate_response(model, tokenizer, prompt):
     inputs = tokenizer(prompt, return_tensors="pt")
