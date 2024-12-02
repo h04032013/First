@@ -74,7 +74,7 @@ Here are five sample linear algebra questions that cover various areas of the su
    "I’m having trouble understanding the concept of a basis for a vector space. Could you explain how to determine if the set of vectors {(1, 2, 3), (2, 1, 0), (0, 3, 1)} forms a basis for R^3?"
 
 5. **Linear Transformations**:  
-   "How do I find the matrix representation of a linear transformation? For example, if I have the transformation \( T: \mathbb{R}^2 \to \mathbb{R}^2 \) defined by \( T(x, y) = (2x + 3y, 4x - y) \), how do I represent \( T \) as a matrix?"
+   "How do I find the matrix representation of a linear transformation? For example, if I have the transformation T: R^2 to R^2 defined by ( T(x, y) = (2x + 3y, 4x - y)), how do I represent T as a matrix?"
 
 INTEGRAL CALCULUS
 1. Introduce the topics of integration by substitution and partial integration
